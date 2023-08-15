@@ -1,1 +1,1 @@
-Um gerador de cor aleatório.
+Gerador de cor aleatório.
